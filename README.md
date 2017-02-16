@@ -10,6 +10,7 @@ What we want? Fun and Knowledge. YEAH! Spam and Ham. Nope. Just funny pics and P
   * PC or Mac
   * Chrome Browser or Firefox
   * Internet
+
 ---
 ### Chapter I
 ###  _Recon_
